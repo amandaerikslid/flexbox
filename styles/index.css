@@ -1,0 +1,47 @@
+.container {
+    border: 5px dotted plum;
+    position: relative;
+    width: 70%;
+    min-height: 70%;
+    padding: 40px;
+    display: flex;
+}
+
+.box {
+    border: 5px solid blue;
+    position: relative;
+    background-color: black;
+    width: 10%;
+    min-height: 50%;
+    padding: 25px;
+    display: flex;
+}
+
+.box2 {
+    border: 5px solid blue;
+    position: relative;
+    background-color: black;
+    width: 10%;
+    min-height: 50%;
+    padding: 25px;
+    display: flex;
+}
+
+.box3 {
+    border: 5px solid blue;
+    position: relative;
+    background-color: black;
+    width: 10%;
+    min-height: 50%;
+    padding: 25px;
+    display: flex;
+}
+
+.container2 {
+    border: 5px dotted plum;
+    position: relative;
+    width: 70%;
+    min-height: 70%;
+    padding: 40px;
+    display: flex;
+}
