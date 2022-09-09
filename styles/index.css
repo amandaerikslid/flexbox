@@ -54,8 +54,8 @@
     display: flex;
     border-radius: 10px;
     margin: 5px;
-    max-width: 70%;
-    max-height: 70%;
+    min-width: 10%;
+    min-height: 10%;
 }
 
 .box1 {
@@ -67,6 +67,6 @@
 }
 
 .box3 {
-    flex-direction: row;
-    align-self: stretch;
+    al;
+    align-self: ;
 }
