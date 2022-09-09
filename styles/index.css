@@ -1,8 +1,15 @@
-.superbox {
+.superbox1 {
     background-color: maroon;
-    border-radius: 10px;
-    width: 250px;
-    height: 100px;
+    width: 1000px;
+    height: 150px;
+    padding: 40px;
+    display: flex;
+}
+
+.superbox2 {
+    background-color: maroon;
+    width: 1000px;
+    height: 200px;
     padding: 40px;
     display: flex;
 }
@@ -15,6 +22,8 @@
     height: 100px;
     padding: 40px;
     display: flex;
+    margin: 10px;
+
 }
 
 .container2 {
@@ -25,7 +34,7 @@
     height: 100px;
     padding: 40px;
     display: flex;
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .container3 {
@@ -36,7 +45,7 @@
     height: 100px;
     padding: 40px;
     display: flex;
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .container4 {
@@ -47,7 +56,7 @@
     height: 100px;
     padding: 40px;
     display: flex;
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .container5 {
@@ -58,7 +67,7 @@
     height: 100px;
     padding: 40px;
     display: flex;
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .container6 {
@@ -69,7 +78,7 @@
     height: 100px;
     padding: 40px;
     display: flex;
-    margin-top: 10px;
+    margin: 10px;
 }
 
 .box {
